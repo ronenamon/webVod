@@ -2,6 +2,9 @@
 
 session_start();
 
+
+
+
 require_once 'Functions.php';
 
 //instance of Functions
